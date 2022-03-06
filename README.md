@@ -23,3 +23,4 @@
 - [Continuous Integrations with GitHub actions](https://dev.to/dawsoncodes/continuous-integrations-with-github-actions-26ig)
 <!-- BLOG-POST-LIST:END -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawsoncodes)](https://github.com/anuraghazra/github-readme-stats)
