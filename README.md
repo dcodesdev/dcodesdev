@@ -8,4 +8,7 @@
 - ⚡  Visit [my blog](https://dawsoncodes.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [10 React community hooks you should be using](https://dev.to/dawsoncodes/10-react-community-hooks-1h6c)
+- [Syntax highlighting with Prism and Next.js](https://dev.to/dawsoncodes/syntax-highlighting-with-prism-and-nextjs-40ee)
+- [Continuous Integrations with GitHub actions](https://dev.to/dawsoncodes/continuous-integrations-with-github-actions-26ig)
 <!-- BLOG-POST-LIST:END -->
