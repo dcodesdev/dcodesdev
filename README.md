@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Dawson
 
 - 👋 Hi, I’m Dawson
+- 📕 I create content from [twitter](https://twitter.com/dawsoncodes)
 - 👀 I’m interested in Building full stack apps that help others
 - 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate if you have a great Idea
