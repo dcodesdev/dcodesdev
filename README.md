@@ -5,7 +5,7 @@
 - 👀 I’m interested in Building full stack apps that help others
 - 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate if you have a great Idea
-- 📫 How to reach me: Twitter -> @dawsoncodes
+- 📫 How to reach me: [twitter](https://twitter.com/dawsoncodes)
 - ⚡  Visit [my blog](https://dawsoncodes.com)
 
 ### Connect with me:
