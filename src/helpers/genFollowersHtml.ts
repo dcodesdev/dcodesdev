@@ -1,7 +1,7 @@
 export const genFollowersHtml = (
   followers: { login: string; avatar_url: string }[]
 ) => {
-  let html = "<table>\n"
+  let html = "\n<table>\n"
 
   followers.forEach((follower, index) => {
     const name = follower.login
@@ -25,7 +25,7 @@ export const genFollowersHtml = (
 		`
   })
 
-  html += "  </tr>\n</table>"
+  html += "  </tr>\n</table>\n"
 
   return html
 }
