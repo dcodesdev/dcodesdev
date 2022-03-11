@@ -25,7 +25,7 @@ jobs:
           sudo npm i -g ts-node
 
       - name: Update README
-        run: ts-node src/app.ts ${{ secrets.GITHUB_TOKEN }}
+        run: ts-node src/app.ts ${{ secrets.TOKEN }}
 
       - name: Commit changes
         run: |
