@@ -1,4 +1,4 @@
-name: Get Followers
+name: Get Followers list
 
 on:
   push:
