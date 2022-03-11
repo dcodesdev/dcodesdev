@@ -5,7 +5,7 @@ import getFollowers from "./helpers/getFollowers"
 import { genFollowersHtml } from "./helpers/genFollowersHtml"
 
 const matchBetween = new RegExp(
-  /(?<=<!-- FOLLOWER-LIST:START -->).*(?=<!-- FOLLOWER-LIST:START-->)/,
+  /(?<=<!-- FOLLOWER-LIST:START -->).*(?=<!-- FOLLOWER-LIST:END -->)/,
   "gs"
 )
 
