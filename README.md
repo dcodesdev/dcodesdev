@@ -1,3 +1,5 @@
+![Dawson profile header](https://github.com/DawsonCodes/DawsonCodes/blob/main/header.png?raw=true)
+
 ### Hi there 👋, I'm Dawson
 
 - 👋 Hi, I’m Dawson
