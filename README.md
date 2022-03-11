@@ -39,6 +39,14 @@
   </td>
 		
 <td align="center">
+     <a href="https://github.com/jasineri">
+       <img src="https://avatars.githubusercontent.com/u/17604010?v=4" width="100px;" alt="jasineri"/>
+     </a>
+     <br />
+     <a href="https://github.com/jasineri">jasineri</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/NiranjanNlc">
        <img src="https://avatars.githubusercontent.com/u/25600880?v=4" width="100px;" alt="NiranjanNlc"/>
      </a>
@@ -77,7 +85,9 @@
      <br />
      <a href="https://github.com/AbdelrahmanDwedar">AbdelrahmanDwedar</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/alicalimli">
        <img src="https://avatars.githubusercontent.com/u/79793867?v=4" width="100px;" alt="alicalimli"/>
@@ -85,9 +95,7 @@
      <br />
      <a href="https://github.com/alicalimli">alicalimli</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/AakashRao-dev">
        <img src="https://avatars.githubusercontent.com/u/81755723?v=4" width="100px;" alt="AakashRao-dev"/>
