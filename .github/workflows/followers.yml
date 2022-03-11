@@ -22,7 +22,7 @@ jobs:
       - name: Install deps
         run: |
           yarn
-          yarn add ts-node
+          sudo npm i -g ts-node
 
       - name: Update README
         run: ts-node src/app.ts ${{ secrets.TOKEN }}
