@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 * * * *"
     
 jobs:
   followers:
@@ -20,8 +20,9 @@ jobs:
           cache: 'npm'
 
       - name: Install deps
-        run: yarn
-        run: yarn add ts-node
+        run: |
+          yarn
+          yarn add ts-node
 
       - name: Update README
         run: ts-node src/app.ts ${{ secrets.TOKEN }}
