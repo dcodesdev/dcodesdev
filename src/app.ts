@@ -20,7 +20,7 @@ const doChanges = async () => {
   // const newContent = "Hello world"
   const updatedFile = content.replace(matchBetween, cards)
 
-  fs.writeFileSync("updated.md", updatedFile)
+  fs.writeFileSync("README.md", updatedFile)
 }
 
 doChanges()
