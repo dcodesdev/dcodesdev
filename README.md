@@ -33,6 +33,14 @@
   <tr>
 
 <td align="center">
+     <a href="https://github.com/rebelchris">
+       <img src="https://avatars.githubusercontent.com/u/554874?v=4" width="100px;" alt="rebelchris"/>
+     </a>
+     <br />
+     <a href="https://github.com/rebelchris">rebelchris</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/julesvcode">
        <img src="https://avatars.githubusercontent.com/u/16637698?v=4" width="100px;" alt="julesvcode"/>
      </a>
@@ -73,6 +81,16 @@
   </td>
 		
 <td align="center">
+     <a href="https://github.com/amehi0index">
+       <img src="https://avatars.githubusercontent.com/u/49414147?v=4" width="100px;" alt="amehi0index"/>
+     </a>
+     <br />
+     <a href="https://github.com/amehi0index">amehi0index</a>
+  </td>
+		  </tr>
+  <tr>
+
+<td align="center">
      <a href="https://github.com/Mahesh-Kasabe">
        <img src="https://avatars.githubusercontent.com/u/60398112?v=4" width="100px;" alt="Mahesh-Kasabe"/>
      </a>
@@ -87,9 +105,7 @@
      <br />
      <a href="https://github.com/AbdelrahmanDwedar">AbdelrahmanDwedar</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/alicalimli">
        <img src="https://avatars.githubusercontent.com/u/79793867?v=4" width="100px;" alt="alicalimli"/>
@@ -129,7 +145,9 @@
      <br />
      <a href="https://github.com/om-jagtap">om-jagtap</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/vikstack">
        <img src="https://avatars.githubusercontent.com/u/98212224?v=4" width="100px;" alt="vikstack"/>
@@ -139,11 +157,27 @@
   </td>
 		
 <td align="center">
+     <a href="https://github.com/thenakmonster">
+       <img src="https://avatars.githubusercontent.com/u/100473842?v=4" width="100px;" alt="thenakmonster"/>
+     </a>
+     <br />
+     <a href="https://github.com/thenakmonster">thenakmonster</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/0xpeho">
        <img src="https://avatars.githubusercontent.com/u/101049697?v=4" width="100px;" alt="0xpeho"/>
      </a>
      <br />
      <a href="https://github.com/0xpeho">0xpeho</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/Abdulbari-M">
+       <img src="https://avatars.githubusercontent.com/u/101131231?v=4" width="100px;" alt="Abdulbari-M"/>
+     </a>
+     <br />
+     <a href="https://github.com/Abdulbari-M">Abdulbari-M</a>
   </td>
 		  </tr>
 </table>
