@@ -115,6 +115,14 @@
   </td>
 		
 <td align="center">
+     <a href="https://github.com/UsamaBinKashif">
+       <img src="https://avatars.githubusercontent.com/u/80617842?v=4" width="100px;" alt="UsamaBinKashif"/>
+     </a>
+     <br />
+     <a href="https://github.com/UsamaBinKashif">UsamaBinKashif</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/AakashRao-dev">
        <img src="https://avatars.githubusercontent.com/u/81755723?v=4" width="100px;" alt="AakashRao-dev"/>
      </a>
@@ -137,7 +145,9 @@
      <br />
      <a href="https://github.com/Harish2930">Harish2930</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/om-jagtap">
        <img src="https://avatars.githubusercontent.com/u/94623946?v=4" width="100px;" alt="om-jagtap"/>
@@ -145,9 +155,7 @@
      <br />
      <a href="https://github.com/om-jagtap">om-jagtap</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/vikstack">
        <img src="https://avatars.githubusercontent.com/u/98212224?v=4" width="100px;" alt="vikstack"/>
