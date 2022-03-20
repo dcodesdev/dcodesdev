@@ -188,6 +188,14 @@
      <br />
      <a href="https://github.com/Abdulbari-M">Abdulbari-M</a>
   </td>
+		
+<td align="center">
+     <a href="https://github.com/Charliesommie">
+       <img src="https://avatars.githubusercontent.com/u/101927728?v=4" width="100px;" alt="Charliesommie"/>
+     </a>
+     <br />
+     <a href="https://github.com/Charliesommie">Charliesommie</a>
+  </td>
 		  </tr>
 </table>
 <!-- FOLLOWER-LIST:END -->
