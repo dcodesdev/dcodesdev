@@ -108,6 +108,14 @@
   </td>
 		
 <td align="center">
+     <a href="https://github.com/Bruce-Hopkins">
+       <img src="https://avatars.githubusercontent.com/u/67981131?v=4" width="100px;" alt="Bruce-Hopkins"/>
+     </a>
+     <br />
+     <a href="https://github.com/Bruce-Hopkins">Bruce-Hopkins</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/gambhirsharma">
        <img src="https://avatars.githubusercontent.com/u/69895353?v=4" width="100px;" alt="gambhirsharma"/>
      </a>
@@ -138,7 +146,9 @@
      <br />
      <a href="https://github.com/AakashRao-dev">AakashRao-dev</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/MbaziiraRonald">
        <img src="https://avatars.githubusercontent.com/u/83420815?v=4" width="100px;" alt="MbaziiraRonald"/>
@@ -146,9 +156,7 @@
      <br />
      <a href="https://github.com/MbaziiraRonald">MbaziiraRonald</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/Harish2930">
        <img src="https://avatars.githubusercontent.com/u/92076885?v=4" width="100px;" alt="Harish2930"/>
@@ -196,7 +204,9 @@
      <br />
      <a href="https://github.com/0xpeho">0xpeho</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/Abdulbari-M">
        <img src="https://avatars.githubusercontent.com/u/101131231?v=4" width="100px;" alt="Abdulbari-M"/>
@@ -204,9 +214,7 @@
      <br />
      <a href="https://github.com/Abdulbari-M">Abdulbari-M</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/Charliesommie">
        <img src="https://avatars.githubusercontent.com/u/101927728?v=4" width="100px;" alt="Charliesommie"/>
