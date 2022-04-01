@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Dastanf
+### Hi there 👋, I'm Dastan
 
 - 👋 Hi, I’m Dastan
 - 📕 I create content from [twitter](https://twitter.com/dawsoncodes)
