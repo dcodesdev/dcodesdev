@@ -1,8 +1,7 @@
-![Dawson profile header](https://github.com/DawsonCodes/DawsonCodes/blob/main/header.png?raw=true)
 
-### Hi there 👋, I'm Dawson
+### Hi there 👋, I'm Dastanf
 
-- 👋 Hi, I’m Dawson
+- 👋 Hi, I’m Dastan
 - 📕 I create content from [twitter](https://twitter.com/dawsoncodes)
 - 👀 I’m interested in Building full stack apps that help others
 - 🌱 I’m currently learning GraphQL
@@ -234,4 +233,4 @@
 </table>
 <!-- FOLLOWER-LIST:END -->
 
-[![Dawson's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawsoncodes)](https://github.com/anuraghazra/github-readme-stats)
+[![Dawson's GitHub stats](https://github-readme-stats.vercel.app/api?username=dastancodes)](https://github.com/anuraghazra/github-readme-stats)
