@@ -1,7 +1,7 @@
 
-### Hi there 👋, I'm Dastan
+### Hi there 👋, I'm Dawson
 
-- 👋 Hi, I’m Dastan
+- 👋 Hi, I’m Dawson
 - 📕 I create content from [twitter](https://twitter.com/dawsoncodes)
 - 👀 I’m interested in Building full stack apps that help others
 - 🌱 I’m currently learning GraphQL
@@ -225,4 +225,4 @@
 </table>
 <!-- FOLLOWER-LIST:END -->
 
-[![Dawson's GitHub stats](https://github-readme-stats.vercel.app/api?username=dastancodes)](https://github.com/anuraghazra/github-readme-stats)
+[![Dawson's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawsoncodes)](https://github.com/anuraghazra/github-readme-stats)
