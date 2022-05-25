@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Dawson
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Dawson
 
 - 👋 Hi, I’m Dawson
 - 📕 I create content from [twitter](https://twitter.com/dawsoncodes)
