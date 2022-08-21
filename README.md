@@ -20,8 +20,8 @@
 ### 📚 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beautify GitHub profile](https://dev.to/dawsoncodes/beautify-github-profile-5a3)
 - [Building a REST API with Prisma and express.js](https://dev.to/dawsoncodes/building-a-rest-api-with-prisma-and-expressjs-1oj)
-- [Take your GitHub profile to the next level with these easy steps](https://dev.to/dawsoncodes/take-your-github-profile-to-the-next-level-with-these-easy-steps-3p6n)
 - [10 React community hooks you should be using](https://dev.to/dawsoncodes/10-react-community-hooks-1h6c)
 - [Syntax highlighting with Prism and Next.js](https://dev.to/dawsoncodes/syntax-highlighting-with-prism-and-nextjs-40ee)
 - [Continuous Integrations with GitHub actions](https://dev.to/dawsoncodes/continuous-integrations-with-github-actions-26ig)
