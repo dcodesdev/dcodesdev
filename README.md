@@ -20,11 +20,11 @@
 ### 📚 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use stub with Cypress](https://dev.to/dawsoncodes/how-to-use-stub-with-cypress-24he)
 - [Beautify GitHub profile](https://dev.to/dawsoncodes/beautify-github-profile-5a3)
 - [Building a REST API with Prisma and express.js](https://dev.to/dawsoncodes/building-a-rest-api-with-prisma-and-expressjs-1oj)
 - [10 React community hooks you should be using](https://dev.to/dawsoncodes/10-react-community-hooks-1h6c)
 - [Syntax highlighting with Prism and Next.js](https://dev.to/dawsoncodes/syntax-highlighting-with-prism-and-nextjs-40ee)
-- [Continuous Integrations with GitHub actions](https://dev.to/dawsoncodes/continuous-integrations-with-github-actions-26ig)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest followers
