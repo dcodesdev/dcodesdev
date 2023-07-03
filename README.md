@@ -20,11 +20,11 @@
 ### 📚 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Semantic search with Node.js and LangChain](https://dev.to/dawsoncodes/semantic-search-with-nodejs-and-langchain-2f7n)
 - [Write better code by following these JavaScript best practices](https://dev.to/dawsoncodes/write-better-code-by-following-these-javascript-best-practices-25mp)
 - [React and express.js form validations with Zod](https://dev.to/dawsoncodes/react-and-expressjs-form-validations-with-zod-2998)
 - [How to set HTML lang attribute in Next.js](https://dev.to/dawsoncodes/how-to-set-html-lang-attribute-in-nextjs-39bg)
 - [How to use stubs with Cypress](https://dev.to/dawsoncodes/how-to-use-stub-with-cypress-24he)
-- [Beautify GitHub profile](https://dev.to/dawsoncodes/beautify-github-profile-5a3)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest followers
