@@ -5,19 +5,19 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 22 * * *"
-    
+    - cron: "0 0 * * *"
+
 jobs:
   followers:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4.1.1
 
       - name: Setup Node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4.0.2
         with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
+          node-version: 20
+          cache: "npm"
 
       - name: Install deps
         run: |
@@ -29,17 +29,13 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
           git add .
           git commit -m "Updated followers"
 
-      - name: Pull changes
-        run: git pull -r
-
       - name: Push changes
-        uses: ad-m/github-push-action@b007e7b818e33b04afd056e4c4b57ba917145d7a
+        uses: ad-m/github-push-action@v0.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          force: true
           branch: main
