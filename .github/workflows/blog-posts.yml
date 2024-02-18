@@ -1,8 +1,9 @@
 name: Latest blog post workflow
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    - cron: "0 * * * *" # Every hour
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -10,8 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4.1.1
+
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@1.8.6
         with:
           feed_list: "https://dev.to/feed/dawsoncodes"
