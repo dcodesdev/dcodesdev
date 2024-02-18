@@ -32,7 +32,7 @@ jobs:
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add .
-          git commit -m "Updated followers"
+          git commit -m "Updated followers" | exit 0
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.8.0
