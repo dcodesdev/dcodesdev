@@ -108,6 +108,14 @@
   </td>
 		
 <td align="center">
+     <a href="https://github.com/halilertekin">
+       <img src="https://avatars.githubusercontent.com/u/6492740?v=4" width="100px;" alt="halilertekin"/>
+     </a>
+     <br />
+     <a href="https://github.com/halilertekin">halilertekin</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/saif71">
        <img src="https://avatars.githubusercontent.com/u/6561498?v=4" width="100px;" alt="saif71"/>
      </a>
@@ -138,7 +146,9 @@
      <br />
      <a href="https://github.com/manolito94">manolito94</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/ilirhushi">
        <img src="https://avatars.githubusercontent.com/u/10850562?v=4" width="100px;" alt="ilirhushi"/>
@@ -146,9 +156,7 @@
      <br />
      <a href="https://github.com/ilirhushi">ilirhushi</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/NikosPaschalis">
        <img src="https://avatars.githubusercontent.com/u/11801323?v=4" width="100px;" alt="NikosPaschalis"/>
@@ -196,7 +204,9 @@
      <br />
      <a href="https://github.com/DawoodShahat">DawoodShahat</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/manssorr">
        <img src="https://avatars.githubusercontent.com/u/19681362?v=4" width="100px;" alt="manssorr"/>
@@ -204,9 +214,7 @@
      <br />
      <a href="https://github.com/manssorr">manssorr</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/edermarcos">
        <img src="https://avatars.githubusercontent.com/u/20048905?v=4" width="100px;" alt="edermarcos"/>
@@ -254,7 +262,9 @@
      <br />
      <a href="https://github.com/AlbertusM">AlbertusM</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/denquinlan">
        <img src="https://avatars.githubusercontent.com/u/24757588?v=4" width="100px;" alt="denquinlan"/>
@@ -262,23 +272,13 @@
      <br />
      <a href="https://github.com/denquinlan">denquinlan</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/stephcyrille">
        <img src="https://avatars.githubusercontent.com/u/24865165?v=4" width="100px;" alt="stephcyrille"/>
      </a>
      <br />
      <a href="https://github.com/stephcyrille">stephcyrille</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/user2212">
-       <img src="https://avatars.githubusercontent.com/u/24878266?v=4" width="100px;" alt="user2212"/>
-     </a>
-     <br />
-     <a href="https://github.com/user2212">user2212</a>
   </td>
 		  </tr>
 </table>
