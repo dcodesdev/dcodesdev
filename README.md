@@ -18,7 +18,6 @@
 ### 📚 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Semantic search with Node.js and LangChain](https://dev.to/dcodes/semantic-search-with-nodejs-and-langchain-2f7n)
 - [Write better code by following these JavaScript best practices](https://dev.to/dcodes/write-better-code-by-following-these-javascript-best-practices-25mp)
 - [React and express.js form validations with Zod](https://dev.to/dcodes/react-and-expressjs-form-validations-with-zod-2998)
