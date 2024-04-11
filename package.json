@@ -1,22 +1,17 @@
 {
-  "name": "dawson-codes",
+  "name": "dcodesdev",
   "version": "1.0.0",
-  "description": "- 👋 Hi, I'm Dawson - 📕 I create content from [twitter](https://twitter.com/dawsoncodes) - 👀 I'm interested in Building full stack apps that help others - 🌱 I’m currently learning GraphQL - 💞️ I’m looking to collaborate if you have a great Idea - 📫 How to reach me: [twitter](https://twitter.com/dawsoncodes) - ⚡  Visit [my blog](https://dawsoncodes.com)",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DawsonCodes/DawsonCodes.git"
+    "url": "git+https://github.com/dcodesdev/dcodesdev.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DawsonCodes/DawsonCodes/issues"
+    "url": "https://github.com/dcodesdev/dcodesdev/issues"
   },
-  "homepage": "https://github.com/DawsonCodes/DawsonCodes#readme",
+  "homepage": "https://github.com/dcodesdev/dcodesdev#readme",
   "dependencies": {
     "@types/node": "^17.0.21",
     "axios": "^0.26.1",

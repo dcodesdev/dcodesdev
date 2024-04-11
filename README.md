@@ -1,30 +1,29 @@
+# Hi there 👋
 
-### Hi there 👋, I'm Dawson
-
-- 👋 Hi, I’m Dawson
-- 📕 I create content from [twitter](https://twitter.com/dawsoncodes)
-- 👀 I’m interested in Building full stack apps that help others
-- 🌱 I’m currently learning GraphQL
-- 💞️ I’m looking to collaborate if you have a great Idea
-- 📫 How to reach me: [twitter](https://twitter.com/dawsoncodes)
-- ⚡ Visit [my blog](https://dawsoncodes.com)
+- 📕 I create content from [twitter](https://x.com/dcodesdev)
+- 👀 I&apos;m interested in Building full stack apps that help others
+- 🌱 I&apos;m currently learning GraphQL
+- 💞️ I&apos;m looking to collaborate if you have a great Idea
+- 📫 How to reach me: [twitter](https://x.com/dcodesdev)
+- ⚡ Visit [my blog](https://dcodes.dev)
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://dawsoncodes.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://dawsoncodes.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://dcodes.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://dcodes.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/dawsoncodes#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/dawsoncodes#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://x.com/dcodesdev#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://x.com/dcodesdev#gh-dark-mode-only)
 
 ### 📚 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic search with Node.js and LangChain](https://dev.to/dawsoncodes/semantic-search-with-nodejs-and-langchain-2f7n)
-- [Write better code by following these JavaScript best practices](https://dev.to/dawsoncodes/write-better-code-by-following-these-javascript-best-practices-25mp)
-- [React and express.js form validations with Zod](https://dev.to/dawsoncodes/react-and-expressjs-form-validations-with-zod-2998)
-- [How to set HTML lang attribute in Next.js](https://dev.to/dawsoncodes/how-to-set-html-lang-attribute-in-nextjs-39bg)
-- [How to use stubs with Cypress](https://dev.to/dawsoncodes/how-to-use-stub-with-cypress-24he)
+
+- [Semantic search with Node.js and LangChain](https://dev.to/dcodes/semantic-search-with-nodejs-and-langchain-2f7n)
+- [Write better code by following these JavaScript best practices](https://dev.to/dcodes/write-better-code-by-following-these-javascript-best-practices-25mp)
+- [React and express.js form validations with Zod](https://dev.to/dcodes/react-and-expressjs-form-validations-with-zod-2998)
+- [How to set HTML lang attribute in Next.js](https://dev.to/dcodes/how-to-set-html-lang-attribute-in-nextjs-39bg)
+- [How to use stubs with Cypress](https://dev.to/dcodes/how-to-use-stub-with-cypress-24he)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest followers
@@ -284,4 +283,4 @@
 </table>
 <!-- FOLLOWER-LIST:END -->
 
-[![Dawson's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawsoncodes)](https://github.com/anuraghazra/github-readme-stats)
+[![dcodes.dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcodesdev)](https://github.com/anuraghazra/github-readme-stats)

@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@1.8.6
         with:
-          feed_list: "https://dev.to/feed/dawsoncodes"
+          feed_list: "https://dev.to/feed/dcodes"
