@@ -72,13 +72,23 @@
   </td>
 		
 <td align="center">
+     <a href="https://github.com/dumindu">
+       <img src="https://avatars.githubusercontent.com/u/1280428?v=4" width="100px;" alt="dumindu"/>
+     </a>
+     <br />
+     <a href="https://github.com/dumindu">dumindu</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/hjsblogger">
        <img src="https://avatars.githubusercontent.com/u/1688653?v=4" width="100px;" alt="hjsblogger"/>
      </a>
      <br />
      <a href="https://github.com/hjsblogger">hjsblogger</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/mendorshikh">
        <img src="https://avatars.githubusercontent.com/u/1748857?v=4" width="100px;" alt="mendorshikh"/>
@@ -86,9 +96,7 @@
      <br />
      <a href="https://github.com/mendorshikh">mendorshikh</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/apsolut">
        <img src="https://avatars.githubusercontent.com/u/1828768?v=4" width="100px;" alt="apsolut"/>
@@ -136,7 +144,9 @@
      <br />
      <a href="https://github.com/magespawn">magespawn</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/manolito94">
        <img src="https://avatars.githubusercontent.com/u/10547923?v=4" width="100px;" alt="manolito94"/>
@@ -144,9 +154,7 @@
      <br />
      <a href="https://github.com/manolito94">manolito94</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/ilirhushi">
        <img src="https://avatars.githubusercontent.com/u/10850562?v=4" width="100px;" alt="ilirhushi"/>
@@ -194,7 +202,9 @@
      <br />
      <a href="https://github.com/Jtamedrano">Jtamedrano</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/DawoodShahat">
        <img src="https://avatars.githubusercontent.com/u/19612755?v=4" width="100px;" alt="DawoodShahat"/>
@@ -202,9 +212,7 @@
      <br />
      <a href="https://github.com/DawoodShahat">DawoodShahat</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/manssorr">
        <img src="https://avatars.githubusercontent.com/u/19681362?v=4" width="100px;" alt="manssorr"/>
@@ -252,7 +260,9 @@
      <br />
      <a href="https://github.com/ahmedmathla">ahmedmathla</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/AlbertusM">
        <img src="https://avatars.githubusercontent.com/u/23635056?v=4" width="100px;" alt="AlbertusM"/>
@@ -260,23 +270,13 @@
      <br />
      <a href="https://github.com/AlbertusM">AlbertusM</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/denquinlan">
        <img src="https://avatars.githubusercontent.com/u/24757588?v=4" width="100px;" alt="denquinlan"/>
      </a>
      <br />
      <a href="https://github.com/denquinlan">denquinlan</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/stephcyrille">
-       <img src="https://avatars.githubusercontent.com/u/24865165?v=4" width="100px;" alt="stephcyrille"/>
-     </a>
-     <br />
-     <a href="https://github.com/stephcyrille">stephcyrille</a>
   </td>
 		  </tr>
 </table>
