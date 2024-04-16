@@ -180,6 +180,14 @@
   </td>
 		
 <td align="center">
+     <a href="https://github.com/simonsynnes">
+       <img src="https://avatars.githubusercontent.com/u/12892394?v=4" width="100px;" alt="simonsynnes"/>
+     </a>
+     <br />
+     <a href="https://github.com/simonsynnes">simonsynnes</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/julesvcode">
        <img src="https://avatars.githubusercontent.com/u/16637698?v=4" width="100px;" alt="julesvcode"/>
      </a>
@@ -194,7 +202,9 @@
      <br />
      <a href="https://github.com/mathcodes">mathcodes</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/Jtamedrano">
        <img src="https://avatars.githubusercontent.com/u/18637520?v=4" width="100px;" alt="Jtamedrano"/>
@@ -202,9 +212,7 @@
      <br />
      <a href="https://github.com/Jtamedrano">Jtamedrano</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/DawoodShahat">
        <img src="https://avatars.githubusercontent.com/u/19612755?v=4" width="100px;" alt="DawoodShahat"/>
@@ -252,7 +260,9 @@
      <br />
      <a href="https://github.com/couchmeka">couchmeka</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/ahmedmathla">
        <img src="https://avatars.githubusercontent.com/u/23425290?v=4" width="100px;" alt="ahmedmathla"/>
@@ -260,23 +270,13 @@
      <br />
      <a href="https://github.com/ahmedmathla">ahmedmathla</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/AlbertusM">
        <img src="https://avatars.githubusercontent.com/u/23635056?v=4" width="100px;" alt="AlbertusM"/>
      </a>
      <br />
      <a href="https://github.com/AlbertusM">AlbertusM</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/denquinlan">
-       <img src="https://avatars.githubusercontent.com/u/24757588?v=4" width="100px;" alt="denquinlan"/>
-     </a>
-     <br />
-     <a href="https://github.com/denquinlan">denquinlan</a>
   </td>
 		  </tr>
 </table>
