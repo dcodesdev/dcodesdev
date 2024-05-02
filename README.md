@@ -32,6 +32,14 @@
   <tr>
 
 <td align="center">
+     <a href="https://github.com/lanastasov">
+       <img src="https://avatars.githubusercontent.com/u/385682?v=4" width="100px;" alt="lanastasov"/>
+     </a>
+     <br />
+     <a href="https://github.com/lanastasov">lanastasov</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/rebelchris">
        <img src="https://avatars.githubusercontent.com/u/554874?v=4" width="100px;" alt="rebelchris"/>
      </a>
@@ -78,7 +86,9 @@
      <br />
      <a href="https://github.com/dumindu">dumindu</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/hjsblogger">
        <img src="https://avatars.githubusercontent.com/u/1688653?v=4" width="100px;" alt="hjsblogger"/>
@@ -86,9 +96,7 @@
      <br />
      <a href="https://github.com/hjsblogger">hjsblogger</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/mendorshikh">
        <img src="https://avatars.githubusercontent.com/u/1748857?v=4" width="100px;" alt="mendorshikh"/>
@@ -136,7 +144,9 @@
      <br />
      <a href="https://github.com/Leonardoleo">Leonardoleo</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/magespawn">
        <img src="https://avatars.githubusercontent.com/u/9950525?v=4" width="100px;" alt="magespawn"/>
@@ -144,9 +154,7 @@
      <br />
      <a href="https://github.com/magespawn">magespawn</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/manolito94">
        <img src="https://avatars.githubusercontent.com/u/10547923?v=4" width="100px;" alt="manolito94"/>
@@ -194,7 +202,9 @@
      <br />
      <a href="https://github.com/julesvcode">julesvcode</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/mathcodes">
        <img src="https://avatars.githubusercontent.com/u/17928947?v=4" width="100px;" alt="mathcodes"/>
@@ -202,9 +212,7 @@
      <br />
      <a href="https://github.com/mathcodes">mathcodes</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/Jtamedrano">
        <img src="https://avatars.githubusercontent.com/u/18637520?v=4" width="100px;" alt="Jtamedrano"/>
@@ -252,7 +260,9 @@
      <br />
      <a href="https://github.com/chrislanejones">chrislanejones</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/couchmeka">
        <img src="https://avatars.githubusercontent.com/u/21232416?v=4" width="100px;" alt="couchmeka"/>
@@ -260,23 +270,13 @@
      <br />
      <a href="https://github.com/couchmeka">couchmeka</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/ahmedmathla">
        <img src="https://avatars.githubusercontent.com/u/23425290?v=4" width="100px;" alt="ahmedmathla"/>
      </a>
      <br />
      <a href="https://github.com/ahmedmathla">ahmedmathla</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/AlbertusM">
-       <img src="https://avatars.githubusercontent.com/u/23635056?v=4" width="100px;" alt="AlbertusM"/>
-     </a>
-     <br />
-     <a href="https://github.com/AlbertusM">AlbertusM</a>
   </td>
 		  </tr>
 </table>
