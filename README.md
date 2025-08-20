@@ -18,11 +18,11 @@
 ### 📚 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic search with Node.js and LangChain](https://forem.com/dcodes/semantic-search-with-nodejs-and-langchain-2f7n)
-- [Write better code by following these JavaScript best practices](https://forem.com/dcodes/write-better-code-by-following-these-javascript-best-practices-25mp)
-- [React and express.js form validations with Zod](https://forem.com/dcodes/react-and-expressjs-form-validations-with-zod-2998)
-- [How to set HTML lang attribute in Next.js](https://forem.com/dcodes/how-to-set-html-lang-attribute-in-nextjs-39bg)
-- [How to use stubs with Cypress](https://forem.com/dcodes/how-to-use-stub-with-cypress-24he)
+- [Semantic search with Node.js and LangChain](https://dev.to/dcodes/semantic-search-with-nodejs-and-langchain-2f7n)
+- [Write better code by following these JavaScript best practices](https://dev.to/dcodes/write-better-code-by-following-these-javascript-best-practices-25mp)
+- [React and express.js form validations with Zod](https://dev.to/dcodes/react-and-expressjs-form-validations-with-zod-2998)
+- [How to set HTML lang attribute in Next.js](https://dev.to/dcodes/how-to-set-html-lang-attribute-in-nextjs-39bg)
+- [How to use stubs with Cypress](https://dev.to/dcodes/how-to-use-stub-with-cypress-24he)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest followers
